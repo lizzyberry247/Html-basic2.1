@@ -1,0 +1,12 @@
+/*universal selector */
+/* *{ 
+    font-weight: bold;
+
+} */
+/* [lang="es"]{
+    font-style: italic;
+} */
+/* p { font-weight: bold; 
+} */
+*/
+[href]
